@@ -1,0 +1,35 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C2 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C3 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C4 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C5 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C6 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C7 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C8 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C9 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C10 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C11 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C12 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=C13 Old Footprint=Capacitor 1206 New Footprint=Capacitor 1206
+Change Physical Footprint: Designator=D1 Old Footprint=LED 1206 New Footprint=LED 1206
+Change Physical Footprint: Designator=D2 Old Footprint=LED 1206 New Footprint=LED 1206
+Change Physical Footprint: Designator=D3 Old Footprint=LED 1206 New Footprint=LED 1206
+Change Physical Footprint: Designator=D4 Old Footprint=LED 1206 New Footprint=LED 1206
+Change Physical Footprint: Designator=J1 Old Footprint=Type-C New Footprint=Type-C
+Change Physical Footprint: Designator=P1 Old Footprint=PCB_Pin_1 New Footprint=PCB_Pin_1
+Change Physical Footprint: Designator=P2 Old Footprint=PCB_Pin_1 New Footprint=PCB_Pin_1
+Change Physical Footprint: Designator=P3 Old Footprint=PCB_Pin_1 New Footprint=PCB_Pin_1
+Change Physical Footprint: Designator=P4 Old Footprint=PCB_Pin_1 New Footprint=PCB_Pin_1
+Change Physical Footprint: Designator=P5 Old Footprint=PCB_Pin_1 New Footprint=PCB_Pin_1
+Change Physical Footprint: Designator=R1 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=R2 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=R3 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=R4 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=R5 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=R6 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=R7 Old Footprint=Resistor 1206 New Footprint=Resistor 1206
+Change Physical Footprint: Designator=SW1 Old Footprint=Button New Footprint=Button
+Change Physical Footprint: Designator=U1 Old Footprint=USBLC6-2SC6 New Footprint=USBLC6-2SC6
+Change Physical Footprint: Designator=U2 Old Footprint=CH-340C New Footprint=CH-340C
+Change Physical Footprint: Designator=U3 Old Footprint=ATMEGA328P-AU New Footprint=ATMEGA328P-AU
+Change Physical Footprint: Designator=Y1 Old Footprint=Crystal 16MHz New Footprint=Crystal 16MHz
