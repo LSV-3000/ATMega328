@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NetC6_1 Pin=C7-1
+Change Component Designator: OldDesignator=C8 NewDesignator=Ñ8
+Change Component Designator: OldDesignator=C9 NewDesignator=Ñ9
+Change Component Description : Designator=RN1 Old Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin New Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin | Bourns CAY16-331J4LF
+Added Component: Designator=C12(Capacitor 1206)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12061C225K4T2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12061C225K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061C225K4T2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(HRO_TYPE-C-31-M-12)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "HRO Electronics Co., Ltd."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TYPE-C-31-M-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TYPE-C-31-M-12/HRO+Electronics+Co.%252C+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Ñ11(Capacitor 1206)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/12061C225K4T2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "12061C225K4T2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/12061C225K4T2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=VCC Pin=J1-A4_B9
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=D+ Pin=J1-A6
+Added Pin To Net: NetName=D- Pin=J1-A7
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=VCC Pin=J1-B4_A9
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=D+ Pin=J1-B6
+Added Pin To Net: NetName=D- Pin=J1-B7
+Added Pin To Net: NetName=VCC Pin=Ñ11-1
+Added Pin To Net: NetName=GND Pin=Ñ11-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-S1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-S2
+Added Pin To Net: NetName=NetC1_1 Pin=J1-S3
+Added Pin To Net: NetName=NetC1_1 Pin=J1-S4
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-8
+Added Pin To Net: NetName=NetC7_1 Pin=Y1-1
+Added Net: Name=NetC7_1
+Added Member To Class: ClassName=ArduinoSchematic Member=Component C12 100n
+Added Member To Class: ClassName=ArduinoSchematic Member=Component J1 TYPE-C-31-M-12
+Added Member To Class: ClassName=ArduinoSchematic Member=Component Y1 Crystal 16MHz
+Added Member To Class: ClassName=ArduinoSchematic Member=Component Ñ11 100n

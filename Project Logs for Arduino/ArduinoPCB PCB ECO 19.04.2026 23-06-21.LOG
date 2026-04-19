@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C8 NewDesignator=Ñ8
+Change Component Designator: OldDesignator=C9 NewDesignator=Ñ9
+Change Component Designator: OldDesignator=C11 NewDesignator=Ñ11
+Change Component Description : Designator=RN1 Old Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin New Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin | Bourns CAY16-331J4LF
+Added Component: Designator=P6(PCB_Pin_1)
+Added Component: Designator=P7(PCB_Pin_1)
+Added Component: Designator=P8(PCB_Pin_1)
+Added Component: Designator=P9(PCB_Pin_1)
+Added Component: Designator=P10(PCB_Pin_1)
+Added Pin To Net: NetName=NetC5_1 Pin=P6-0
+Added Pin To Net: NetName=TX Pin=P7-0
+Added Pin To Net: NetName=RX Pin=P8-0
+Added Pin To Net: NetName=VCC Pin=P9-0
+Added Pin To Net: NetName=GND Pin=P10-0
+Added Member To Class: ClassName=ArduinoSchematic Member=Component P6 DTR
+Added Member To Class: ClassName=ArduinoSchematic Member=Component P7 RX
+Added Member To Class: ClassName=ArduinoSchematic Member=Component P8 TX
+Added Member To Class: ClassName=ArduinoSchematic Member=Component P9 VCC
+Added Member To Class: ClassName=ArduinoSchematic Member=Component P10 GND
