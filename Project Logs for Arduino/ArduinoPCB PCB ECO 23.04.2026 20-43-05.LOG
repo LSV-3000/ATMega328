@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=P6-0
+Removed Pin From Net: NetName=TX Pin=P7-0
+Removed Pin From Net: NetName=RX Pin=P8-0
+Removed Pin From Net: NetName=VCC Pin=P9-0
+Removed Pin From Net: NetName=GND Pin=P10-0
+Removed Pin From Net: NetName=TX Pin=U2-2
+Removed Pin From Net: NetName=RX Pin=U2-3
+Removed Member From Class: ClassName=ArduinoSchematic Member=P10
+Change Component Comment : Designator=P6 Old Comment=DTR New Comment=RESET
+Change Component Comment : Designator=P7 Old Comment=RX New Comment=MOSI
+Change Component Comment : Designator=P8 Old Comment=TX New Comment=MISO
+Change Component Comment : Designator=P9 Old Comment=VCC New Comment=SCK
+Change Component Designator: OldDesignator=C8 NewDesignator=Ñ8
+Change Component Designator: OldDesignator=C9 NewDesignator=Ñ9
+Change Component Designator: OldDesignator=C11 NewDesignator=Ñ11
+Added Component: Designator=R5(Resistor 1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor 1206)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJU08F4703V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Reset Pin=P6-0
+Added Pin To Net: NetName=RX Pin=R5-1
+Added Pin To Net: NetName=TX Pin=R6-1
+Added Pin To Net: NetName=IndicatePin Pin=RN1-4
+Added Pin To Net: NetName=IndicatePin Pin=U3-1
+Added Net: Name=IndicatePin
+Added Pin To Net: NetName=NetP7_0 Pin=P7-0
+Added Pin To Net: NetName=NetP7_0 Pin=U3-15
+Added Net: Name=NetP7_0
+Added Pin To Net: NetName=NetP8_0 Pin=P8-0
+Added Pin To Net: NetName=NetP8_0 Pin=U3-16
+Added Net: Name=NetP8_0
+Added Pin To Net: NetName=NetP9_0 Pin=P9-0
+Added Pin To Net: NetName=NetP9_0 Pin=U3-17
+Added Net: Name=NetP9_0
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U2-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-2
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=ArduinoSchematic Member=Component R5 100
+Added Member To Class: ClassName=ArduinoSchematic Member=Component R6 100
+Added Member To Class: ClassName=ArduinoSchematic Member=Component SW1 Button
+Added Rule: Name=Schematic Supply Nets

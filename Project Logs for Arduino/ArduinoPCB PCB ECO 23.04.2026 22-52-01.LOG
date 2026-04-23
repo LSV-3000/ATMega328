@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IndicatePin Pin=U3-1
+Change Component Comment : Designator=D4 Old Comment=IND New Comment=D13
+Change Component Designator: OldDesignator=C8 NewDesignator=Ñ8
+Change Component Designator: OldDesignator=C9 NewDesignator=Ñ9
+Change Component Designator: OldDesignator=C11 NewDesignator=Ñ11
+Change Component Description : Designator=RN1 Old Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin New Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin | Bourns CAY16-331J4LF
+Added Pin To Net: NetName=IndicatePin Pin=U3-9
