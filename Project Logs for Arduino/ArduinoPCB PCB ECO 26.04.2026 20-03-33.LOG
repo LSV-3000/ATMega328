@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Reset Pin=P6-0
+Change Component Comment : Designator=P6 Old Comment=RESET New Comment=SS
+Change Component Designator: OldDesignator=C8 NewDesignator=Ñ8
+Change Component Designator: OldDesignator=C9 NewDesignator=Ñ9
+Change Component Designator: OldDesignator=C11 NewDesignator=Ñ11
+Change Component Description : Designator=RN1 Old Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin New Description=Resistor,Thick Film,Networks & Arrays,330 Ohm,5%,8 Pin | Bourns CAY16-331J4LF
+Added Pin To Net: NetName=NetP6_0 Pin=P6-0
+Added Pin To Net: NetName=NetP6_0 Pin=U3-14
+Added Net: Name=NetP6_0
